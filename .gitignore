@@ -1,0 +1,7 @@
+.env
+venv/
+resume.pdf
+*.xlsx
+*.xls
+logs/
+email_log.csv
